@@ -27,7 +27,6 @@ class MyApp extends StatelessWidget {
             highlightColor: Colors.red, // Pone un color cuando se mantiene presionado el botón
             tooltip: 'Prueba de tooltip', // Muestra un mensaje cuando se mantiene presionado el botón
             iconSize: 300, // Redimensiona el icono
-            visualDensity: VisualDensity.compact,
           ),
         ),
       )
