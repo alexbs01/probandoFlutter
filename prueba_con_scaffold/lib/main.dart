@@ -40,7 +40,7 @@ class MyApp extends StatelessWidget {
         ),
 
         endDrawer: Drawer(
-          backgroundColor: Colors.yellowAccent,
+          backgroundColor: Colors.yellow,
           child: ListView(
             children: const [
               ListTile(
